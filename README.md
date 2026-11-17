@@ -1,4 +1,4 @@
-# AI Complaint Classification & Escalation System
+# Cloud based Complaint Classification & Escalation System
 
 **CSE Department, Mahatma Gandhi Mission's College of Engineering, Nanded**
 
@@ -6,6 +6,12 @@ Students write a complaint in plain words. The system **classifies** it with NLP
 
 ---
 LiveDemo: https://complaint-system-jpab.onrender.com
+Created By:
+Rutuja Deshmukh
+PritiHambarde
+Vaishnavi Pimparwar
+Pranali Thombare
+
 ## Contents
 
 1. [Features](#1-features)
